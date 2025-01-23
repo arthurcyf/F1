@@ -25,3 +25,5 @@ the way to calculate the qualifying results is the average of all the qualifying
 for eg. max verstappen completed q3 that weekend and perez only managed q2, the average is between the q1, q2, q3 of Verstappen and the q1 and q2 timings of perez. average timing = avg(q1Verstappen,q2Verstappen,q3Verstappen,q1Perez,q2Perez)
 
 However, there are many considerations that this formula does not consider, hence the subjective nature of sport.
+
+**Conclusion:** During this project I learnt about joins in python and applied what I learnt in my Data Management module in SQL. It made me more comfortable with Pandas and Numpy.
